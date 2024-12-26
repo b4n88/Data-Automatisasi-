@@ -1,4 +1,4 @@
-<h1 align ='center'> Repo ini untuk saya yang males ngerjain berkali kali</h1>
+<h1 align ='center'> Repo ini untuk saya yang males ngerjain berkali kali🛫</h1>
 
 ----
 
