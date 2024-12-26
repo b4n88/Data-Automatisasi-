@@ -2,6 +2,6 @@
 
 ----
 
-saya ingat mantan bos saya Pak TRS, bekerja dengan macro, untuk kerjaan yang sifatnya berulang. Kita coba dengan Py..
+Saya ingat mantan bos saya Pak TRS, bekerja dengan macro, untuk kerjaan yang sifatnya berulang. Maru kita coba dengan Py..
 
 Semoga kelen dapat insght ahahha....
