@@ -6,4 +6,6 @@ Karena kerjaan saya membuat KPI setiap senin dan kamis, saya agak capek ngerjain
 
 Kita akan menggunakan Py yah abang abangan sekaian..
 
+oh iya contoh data yang saya gunakan di atas adalahh data dummy, sudah saya edit semua..
+
 Let's kicob..
