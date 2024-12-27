@@ -6,6 +6,13 @@ Karena kerjaan saya membuat KPI setiap senin dan kamis, saya agak capek ngerjain
 
 Kita akan menggunakan Py yah abang abangan sekaian..
 
+*Gunakan prosess_csv.py
+
+Buka CMD ketik :
+
+1. cd D:/R/DATA FOR KPI/
+2. python proses_csv.py
+
 oh iya contoh data yang saya gunakan di atas adalahh data dummy, sudah saya edit semua..
 
 Alurnya adalah :
